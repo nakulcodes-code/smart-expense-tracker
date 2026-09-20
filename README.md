@@ -50,7 +50,7 @@ A lightweight Java web application designed to help users log daily expenses, tr
 
 | Login Page | Dashboard |
 |---|---|
-| Project screenshot/Screenshot_20-9-2026_113624_localhost.jpeg | *(Add your dashboard screenshot link here)*[cite: 2] |
+| Project screenshot/Screenshot_20-9-2026_113624_localhost.jpeg | Project screenshot/Screenshot_20-9-2026_113554_localhost.jpeg |
 
 ---
 
