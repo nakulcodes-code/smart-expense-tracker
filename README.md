@@ -34,7 +34,7 @@ A lightweight Java web application designed to help users log daily expenses, tr
 ### Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/smart-expense-tracker.git](https://github.com/YOUR_GITHUB_USERNAME/smart-expense-tracker.git)
+   git clone [https://github.com/nakulcodes-code/smart-expense-tracker]
    ```
 2. Import the project into **NetBeans IDE**:
    * Open NetBeans -> `File` -> `Open Project` -> Select the repository folder.
